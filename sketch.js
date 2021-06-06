@@ -1,4 +1,5 @@
-
+var bgImg;
+var catImg;
 function preload() {
     //load the images here
 }
